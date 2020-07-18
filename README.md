@@ -1,2 +1,0 @@
-# redxtech
-About me!
