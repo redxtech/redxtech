@@ -7,7 +7,7 @@ Hey! My name is Gabe Dunn and I'm a fullstack web developer working in Calgary, 
 You can find my professional work at [@gabedunn](https://github.com/gabedunn), and my archived projects
 at [@gabedunn-archive](https://github.com/gabedunn-archive).
 
-I'm a linux enthusiast, free & open source software contributor & maintainer, and thing-automator.
+I'm a linux enthusiast, free & open source software contributor & maintainer, and automator of anything that I can.
 
 I like to license most of my projects with the [MIT license](https://choosealicense.com/licenses/mit/),
 but I would use the [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) for complete applications.
