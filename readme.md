@@ -15,8 +15,3 @@ but I would use the [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) for co
 ## Stats
 [![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=redxtech&layout=compact&show_icons=true&theme=onedark)](https://github.com/redxtech)
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=redxtech&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Specs:
-- **CPU**: R9 5900X
-- **GPU**: GTX 970
-- **RAM**: 2x8GB 4000MHz Corsair LPX
