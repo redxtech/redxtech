@@ -1,8 +1,8 @@
 # gabe dunn
-[website](https://gabedunn.dev) | [portfolio](https://gabedunn.dev/projects) | [dotfiles](https://github.com/redxtech/dotfiles)
+[website](https://gabedunn.dev) | [portfolio](https://gabedunn.dev/projects) | [dotfiles](https://github.com/redxtech/dotfiles) | [nixfiles](https://github.com/redxtech/nixfiles)
 
 ## introduction
-hey! my name is gabe dunn and i'm a fullstack web developer working in calgary & victoria, canada.
+hey! my name is gabe dunn and i'm a fullstack developer working in calgary & victoria, canada.
 
 you can find my professional work at [@gabedunn](https://github.com/gabedunn), and my archived projects
 at [@gabedunn-archive](https://github.com/gabedunn-archive).
