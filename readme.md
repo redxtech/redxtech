@@ -13,5 +13,5 @@ i like to license most of my projects with the [MIT license](https://choosealice
 but i use the [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) for complete applications.
 
 ## stats
-[![gabe's github stats](https://github-readme-stats.vercel.app/api?username=redxtech&layout=compact&show_icons=true&theme=onedark)](https://github.com/redxtech)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redxtech&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![gabe's github stats](https://github-readme-stats.vercel.app/api?username=redxtech&layout=compact&show_icons=true&theme=dracula)](https://github.com/redxtech)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redxtech&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
